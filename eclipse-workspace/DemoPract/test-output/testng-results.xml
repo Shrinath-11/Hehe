@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-26T11:02:48 IST" name="Default suite" finished-at="2023-10-26T11:02:58 IST" duration-ms="9765">
+    <groups>
+    </groups>
+    <test started-at="2023-10-26T11:02:48 IST" name="Default test" finished-at="2023-10-26T11:02:58 IST" duration-ms="9765">
+      <class name="TestNGDemo.NewTest1">
+        <test-method signature="f()[pri:0, instance:TestNGDemo.NewTest1@5b1669c0]" started-at="2023-10-26T11:02:48 IST" name="f" finished-at="2023-10-26T11:02:53 IST" duration-ms="4966" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method signature="f2()[pri:1, instance:TestNGDemo.NewTest1@5b1669c0]" started-at="2023-10-26T11:02:53 IST" name="f2" finished-at="2023-10-26T11:02:55 IST" duration-ms="1570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f2 -->
+        <test-method signature="f3()[pri:2, instance:TestNGDemo.NewTest1@5b1669c0]" started-at="2023-10-26T11:02:55 IST" name="f3" finished-at="2023-10-26T11:02:58 IST" duration-ms="3162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f3 -->
+      </class> <!-- TestNGDemo.NewTest1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
